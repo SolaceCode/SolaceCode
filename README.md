@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I'm currently working on:<br>Log Analysis(Wazuh) and client web projects for Kenyan SMEs<br><br>👯 I'm looking to collaborate on<br>Web apps with a security-first mindset, CTF challenges, or open-source blue team tooling<br><br>🌱 I'm currently learning<br>Firewall configuration, and Linux internals-bridging my web dev background into enterprise security<br><br>💬 Ask me about<br>Building websites for local businesses, SSH honeypots, Linux troubleshooting, or breaking into cybersecurity in KenyaSee my documented projects<br>https://app.notion.com/p/2ed5a6591886807d93d1c30b017c4b43?v=2ed5a659188680bebccc000c1d6d45f3&source=copy_link
+🔭 I'm currently working on:<br>Log Analysis(Wazuh) and client web projects for Kenyan SMEs<br><br>👯 I'm looking to collaborate on<br>Web apps with a security-first mindset, CTF challenges, or open-source blue team tooling<br><br>🌱 I'm currently learning<br>Firewall configuration, and Linux internals-bridging my web dev background into enterprise security<br><br>💬 Ask me about<br>Building websites for local businesses, SSH honeypots, Linux troubleshooting, or breaking into cybersecurity in Kenya<br>See my documented projects<br>https://app.notion.com/p/2ed5a6591886807d93d1c30b017c4b43
 
 
 ## 🌐 Socials:
